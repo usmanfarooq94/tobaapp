@@ -60,6 +60,9 @@ flutter:
     - assets/images/angledown.png
     - assets/images/angleup.png
     - assets/images/Villas.png
+    - assets/images/bank.png
+    - assets/images/cementlogo.png
+    - assets/images/cementtoba.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

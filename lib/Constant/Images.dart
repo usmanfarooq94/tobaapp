@@ -10,3 +10,6 @@ String cement='assets/images/cementproduct.png';
 String angleup='assets/images/angleup.png';
 String angledown='assets/images/angledown.png';
 String villas='assets/images/Villas.png';
+String bank='assets/images/bank.png';
+String cementlogo='assets/images/cementlogo.png';
+String cementtoba='assets/images/cementtoba.png';
